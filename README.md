@@ -17,8 +17,12 @@ The Currency Converter app provides a seamless way to convert currencies with re
   <img src="https://github.com/user-attachments/assets/efb5225f-18ac-47b7-915c-3d5d7623629c" width="400" alt="WhatsApp Image 2024-08-03 at 9 25 36 AM" style="margin-right: 10px;">
 </div>
 
+## Live Demo 🌐
 
+Check out the live demo of the Currency Converter app here!  
+[Currency Converter](https://zippy-bienenstitch-a190b9.netlify.app/)
 
+---
 
 ## Tech Stack 🛠️
 
