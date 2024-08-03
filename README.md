@@ -27,7 +27,6 @@ Check out the live demo of the Currency Converter app here!
 ## Tech Stack 🛠️
 
 - **Frontend**: React.js, Tailwind CSS
-- **Backend**: Node.js, Express.js
 - **APIs**: Reliable currency exchange APIs
 - **Other Tools**: Git for version control, Figma for design, Axios for data fetching
 
