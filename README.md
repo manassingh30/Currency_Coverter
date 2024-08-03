@@ -87,7 +87,3 @@ For inquiries or support, please contact [singhmanas876@gmail.com](mailto:singhm
 ---
 
 Thank you for using Currency Converter! We hope it simplifies your currency conversion needs and provides a great user experience. 🌐💸
-
----
-
-Feel free to adjust any details to better fit the specifics of your project!
